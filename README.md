@@ -1,6 +1,7 @@
 # TouchDesigner_patches
 
 TouchDesignerの制作リスト
+チュートリアル動画などを参考にアレンジして作成
 
 ## PATCH LIST
 
